@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Syracuse/Internship/RailsIssues/RailsIssues.iml" filepath="$PROJECT_DIR$/../../Syracuse/Internship/RailsIssues/RailsIssues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Syracuse/Internship/RailsIssues/app/app.iml" filepath="$PROJECT_DIR$/../../Syracuse/Internship/RailsIssues/app/app.iml" />
+    </modules>
+  </component>
+</project>
