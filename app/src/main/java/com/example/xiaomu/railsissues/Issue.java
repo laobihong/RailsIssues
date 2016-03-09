@@ -3,6 +3,8 @@ import java.util.UUID;
 
 /**
  * Created by xiaomu on 3/7/16.
+ * This class defines an Issue, which has a title, a body,
+ * and the author's name.
  */
 public class Issue {
 

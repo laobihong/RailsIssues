@@ -12,7 +12,8 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 /**
- * Created by xiaomu on 3/7/16.
+ * Created by Xiaomu on 3/7/16.
+ * This fragment is for displaying a list of issue.
  */
 public class IssueListFragment extends ListFragment{
     private ArrayList<Issue> mIssues;

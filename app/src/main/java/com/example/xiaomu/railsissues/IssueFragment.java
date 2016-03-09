@@ -8,7 +8,8 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 
 /**
- * Created by xiaomu on 3/7/16.
+ * Created by Xiaomu on 3/7/16.
+ * This class is for an Issue's view on the screen.
  */
 public class IssueFragment extends Fragment{
     private Issue mIssue;

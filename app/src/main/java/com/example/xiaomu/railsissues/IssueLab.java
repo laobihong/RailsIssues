@@ -13,7 +13,12 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 /**
- * Created by xiaomu on 3/7/16.
+ * Created by Xiaomu on 3/7/16.
+ * The IssueLab fetches the issues from
+ * https://api.github.com/repos/rails/rails/issues
+ * then it parses the JSON objects and stores the
+ * information, e.g. issue title, author and body
+ * into the Issue instances for further usage.
  */
 public class IssueLab {
     private ArrayList<Issue> mIssues;

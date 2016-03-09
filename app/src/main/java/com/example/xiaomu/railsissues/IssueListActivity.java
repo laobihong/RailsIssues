@@ -6,7 +6,8 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 
 /**
- * Created by xiaomu on 3/7/16.
+ * Created by Xiaomu on 3/7/16.
+ * This class is for displaying a list of issue.
  */
 public class IssueListActivity extends FragmentActivity{
 
