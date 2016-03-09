@@ -2,7 +2,7 @@ package com.example.xiaomu.railsissues;
 import java.util.UUID;
 
 /**
- * Created by xiaomu on 3/7/16.
+ * Created by Xiaomu on 3/7/16.
  * This class defines an Issue, which has a title, a body,
  * and the author's name.
  */
